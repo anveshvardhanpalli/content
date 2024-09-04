@@ -1,0 +1,19 @@
+.left-navbar {
+  display: flex;
+  flex-direction: column;
+  background-color: #e2e8f0;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  background-color: #f1f5f9;
+}
+.right-navbar {
+  display: flex;
+  flex-direction: column;
+  background-color: #e2e8f0;
+}
+.body-container {
+  display: flex;
+  flex-direction: row;
+}
